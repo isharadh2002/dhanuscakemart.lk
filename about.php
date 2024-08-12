@@ -47,8 +47,7 @@
 
                 echo "<p>Your " . ucwords(str_replace("_", " ", $name)) . " is : " . $value . "<p>\n";
             }
-
-            echo "<h4>Thank you for visiting our website</h4>";
+            
         }
 
         ?>
