@@ -45,7 +45,7 @@
 
             foreach ($_GET as $name => $value) {
 
-                echo "<h4>Your " . ucwords(str_replace("_", " ", $name)) . " is : " . $value . "</h4>\n";
+                echo "<p>Your " . ucwords(str_replace("_", " ", $name)) . " is : " . $value . "<p>\n";
             }
         }
 
