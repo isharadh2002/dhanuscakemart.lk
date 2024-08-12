@@ -1,0 +1,79 @@
+body {
+    background-color: white;
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+
+form {
+    border: 1px solid black;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p {
+    text-align: justify;
+}
+
+table {
+    border: 1px solid black;
+    width: 75%;
+    margin-left: 5%;
+    max-width: 500px;
+
+}
+
+th {
+    text-align: left;
+    border: 1px solid black;
+    width: 70%;
+    padding: 0px;
+}
+
+td {
+    border: 1px solid black;
+    width: 30%;
+    padding: 0px;
+}
+
+tr {
+    padding: 0px;
+}
+
+
+.intro_img {
+    width: 100%;
+}
+
+#counter {
+    font-size: 100px;
+    padding: 50px;
+    text-align: center;
+    display: block;
+}
+
+.counterbtns {
+    display: block;
+    text-align: center;
+}
+
+#decreasebtn {
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#resetbtn {
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#increasebtn {
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+}
